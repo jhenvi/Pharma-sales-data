@@ -11,7 +11,6 @@
 - Sales data are resampled to the hourly, daily, weekly and monthly periods. 
 - Data is already pre-processed, where processing included outlier detection and treatment and missing data imputation.
 
-
+![Seasonability Analysis - Trend](https://github.com/jhenvi/Pharma-sales-data/blob/main/graphs/seasonalityTrend.png.png)
 ![Seasonability Analysis - Daily Data](https://github.com/jhenvi/Pharma-sales-data/blob/main/graphs/seasonalityAnalysis1.png)
 ![Seasonability Analysis - Daily Data](https://github.com/jhenvi/Pharma-sales-data/blob/main/graphs/seasonalityAnalysis2.png)
-![Seasonability Analysis - Trend](https://github.com/jhenvi/Pharma-sales-data/blob/main/graphs/seasonalityTrend.png.png)
