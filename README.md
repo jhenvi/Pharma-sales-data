@@ -14,3 +14,7 @@
 ![Seasonability Analysis - Trend](https://github.com/jhenvi/Pharma-sales-data/blob/main/graphs/seasonalityTrend.png)
 ![Seasonability Analysis - Daily Data](https://github.com/jhenvi/Pharma-sales-data/blob/main/graphs/seasonalityAnalysis1.png)
 ![Seasonability Analysis - Daily Data](https://github.com/jhenvi/Pharma-sales-data/blob/main/graphs/seasonalityAnalysis2.png)
+![Sales Trend](https://github.com/jhenvi/Pharma-sales-data/blob/main/graphs/salesTrend.png)
+![ATC Weekly Average](https://github.com/jhenvi/Pharma-sales-data/blob/main/graphs/ATC_WeeklyAaverage%20sales.png)
+![ATC Daily Average Sales](https://github.com/jhenvi/Pharma-sales-data/blob/main/graphs/ATC_DailyAaverage%20sales.png)
+![AutoCorrelation Function ACF](https://github.com/jhenvi/Pharma-sales-data/blob/main/graphs/AutoCorrelationFunctionACF.png)
