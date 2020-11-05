@@ -15,3 +15,5 @@
 ![ATC Weekly Average](https://github.com/jhenvi/Pharma-sales-data/blob/main/graphs/ATC_WeeklyAaverage%20sales.png)
 ![ATC Daily Average Sales](https://github.com/jhenvi/Pharma-sales-data/blob/main/graphs/ATC_DailyAaverage%20sales.png)
 ![AutoCorrelation Function ACF](https://github.com/jhenvi/Pharma-sales-data/blob/main/graphs/AutoCorrelationFunctionACF.png)
+![code](https://github.com/jhenvi/Pharma-sales-data/blob/main/sales%20analysis.ipynb)
+
